@@ -1,0 +1,17 @@
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\bin\Debug\net8.0-windows\postes2 kali ini.exe
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\bin\Debug\net8.0-windows\postes2 kali ini.deps.json
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\bin\Debug\net8.0-windows\postes2 kali ini.runtimeconfig.json
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\bin\Debug\net8.0-windows\postes2 kali ini.dll
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\bin\Debug\net8.0-windows\postes2 kali ini.pdb
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2_kali_ini.Form1.resources
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2 kali ini.vbproj.GenerateResource.cache
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2 kali ini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2 kali ini.AssemblyInfoInputs.cache
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2 kali ini.AssemblyInfo.vb
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2 kali ini.vbproj.CoreCompileInputs.cache
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2 kali ini.dll
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\refint\postes2 kali ini.dll
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2 kali ini.pdb
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2 kali ini.genruntimeconfig.cache
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\ref\postes2 kali ini.dll
+C:\Users\FMIPA2001\source\repos\postes2 kali ini\postes2 kali ini\obj\Debug\net8.0-windows\postes2_kali_ini.Resources.resources
