@@ -1,0 +1,13 @@
+C:\Users\Ihsan\Documents\Visual Studio 2012\Projects\review 3\review 3\bin\Debug\review 3.exe.config
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\bin\Debug\review 3.exe.config
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\bin\Debug\review 3.exe
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\bin\Debug\review 3.pdb
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\bin\Debug\review 3.xml
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\obj\Debug\review 3.vbproj.AssemblyReference.cache
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\obj\Debug\review 3.vbproj.GenerateResource.cache
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\obj\Debug\review 3.vbproj.CoreCompileInputs.cache
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\obj\Debug\review 3.exe
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\obj\Debug\review 3.xml
+C:\Users\FMIPA2001\source\repos\2209106099_Muhamad_ihsan_Review3\review 3\review 3\obj\Debug\review 3.pdb
